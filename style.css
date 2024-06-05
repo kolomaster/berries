@@ -1,0 +1,40 @@
+header{
+height: 420px;
+background-color: rgb(241, 171, 180);
+text-align: center;
+color: rgb(0, 0, 0);
+padding: 50px;
+font-size: larger;
+
+}
+main{
+    background-color: rgb(255, 255, 255);
+    font-size: large;
+    color: rgb(0, 0, 0);
+    padding: 80px;
+    text-align: center;
+}
+body
+{
+background-color: rgb(255, 255, 255);
+}
+footer
+{
+background-color: rgb(218, 154, 165);
+color: rgb(255, 255, 255);
+padding: 80px;
+text-align: center;
+font-size: larger;
+}
+
+.social img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
